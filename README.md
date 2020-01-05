@@ -1,5 +1,5 @@
 # Description
-C program to return a list of palindromes in file
+C program to return a list of palindromes in file, and it's only 67 lines of ASM!
 
 # Install & Usage
 ```
