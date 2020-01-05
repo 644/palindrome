@@ -1,4 +1,4 @@
-# palindrome
+# Description
 C program to return a list of palindromes in file
 
 # Install & Usage
