@@ -1,5 +1,5 @@
 # Description
-C program to return a list of palindromes in file, and it's only 56 lines of ASM, and the UTF-8 version is only 138 lines of ASM!
+C program to return a list of palindromes in file, and it's only 56 lines of ASM; the UTF-8 version is only 138 lines of ASM!
 
 It can sort through a list of 300 million words and write them to a file in under 7s. The UTF-8 version is ~1s slower for every 300 million words.
 
