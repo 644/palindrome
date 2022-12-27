@@ -14,4 +14,5 @@ gcc -O3 -opalindrome-utf8 palindrome-utf8.c
 wget https://github.com/i34/palindrome/raw/master/palindrome.c
 gcc -O3 -opalindrome palindrome.c
 ./palindrome /path/to/wordfile
-```
+it is my addition
+to this readme file 
